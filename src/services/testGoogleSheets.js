@@ -2,8 +2,8 @@
 export const testGoogleSheets = async () => {
   try {
     // Hardcoded values for testing
-    const spreadsheetId = '1K-rP-JC0lASMNpr-DrqWAzSso9HFE5KCDWtNJspnFDU';
-    const apiKey = 'AIzaSyBXHCbTkq2hlrOxdZ8dkAM0ffHmHTu-i7M';
+    const spreadsheetId = ''
+    const apiKey = ''
     
     console.log('Test function called with:', { 
       spreadsheetId, 
